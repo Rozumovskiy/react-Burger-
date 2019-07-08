@@ -1,0 +1,36 @@
+[2019-07-06 17:11:35.144] [exthost] [info] extension host started
+[2019-07-06 17:11:35.218] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2019-07-06 17:11:35.218] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-07-06 17:11:35.303] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-07-06 17:11:35.303] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-07-06 17:11:35.307] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-07-06 17:11:35.307] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-07-06 17:11:35.325] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-07-06 17:11:35.325] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-07-06 17:11:35.448] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-07-06 17:11:35.448] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-07-06 17:11:35.454] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"activationEvent":"*"}
+[2019-07-06 17:11:35.454] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2019-07-06 17:11:35.473] [exthost] [info] eager extensions activated
+[2019-07-06 17:11:52.448] [exthost] [info] extension host started
+[2019-07-06 17:11:52.558] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2019-07-06 17:11:52.558] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-07-06 17:11:52.667] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-07-06 17:11:52.667] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-07-06 17:11:52.671] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-07-06 17:11:52.671] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-07-06 17:11:52.687] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-07-06 17:11:52.687] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-07-06 17:11:52.802] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-07-06 17:11:52.802] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-07-06 17:11:52.811] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"activationEvent":"*"}
+[2019-07-06 17:11:52.811] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2019-07-06 17:11:52.832] [exthost] [info] eager extensions activated
+[2019-07-06 17:11:59.576] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-07-06 17:11:59.576] [exthost] [error] {"label":"Acquiring typings...","detail":"Acquiring typings definitions for IntelliSense."}
+[2019-07-06 17:12:00.144] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-07-06 17:12:00.144] [exthost] [error] {"label":"Acquiring typings...","detail":"Acquiring typings definitions for IntelliSense."}
+[2019-07-06 17:12:00.557] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-07-06 17:12:00.557] [exthost] [error] {"label":"Acquiring typings...","detail":"Acquiring typings definitions for IntelliSense."}
+[2019-07-06 17:15:10.097] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-07-06 17:15:10.098] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/dist/extension

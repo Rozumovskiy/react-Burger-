@@ -1,0 +1,3 @@
+[2019-07-06 17:11:35.295] [renderer1] [error] Error: Error: ENOENT: no such file or directory, stat '/home/bogdan/Documents/React/homework/.vscode'
+[2019-07-06 17:11:52.637] [renderer1] [error] Error: Error: ENOENT: no such file or directory, stat '/home/bogdan/Documents/React/react-complete-guide/.vscode'
+[2019-07-06 17:11:59.577] [renderer1] [error] An unknown error occurred. Please consult the log for more details.

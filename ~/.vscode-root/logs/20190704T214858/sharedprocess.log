@@ -1,0 +1,74 @@
+[2019-07-04 21:49:02.160] [sharedprocess] [info] main {"machineId":"d9dc6795b13edcc43a427af5b36d1ec154e7ed3a59a3c60199dda6f4c5f2b2c8"}
+[2019-07-04 21:49:02.178] [sharedprocess] [info] Scanned user extensions: 1
+[2019-07-04 21:49:02.204] [sharedprocess] [info] Scanned user extensions: 1
+[2019-07-04 21:49:02.207] [sharedprocess] [info] Scanned user extensions: 1
+[2019-07-04 21:49:02.271] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-04 21:49:02.277] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-04 21:49:02.280] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-04 21:49:02.312] [sharedprocess] [info] Scanned user extensions: 1
+[2019-07-04 21:49:02.336] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-04 21:49:02.861] [sharedprocess] [info] Scanned user extensions: 1
+[2019-07-04 21:49:38.878] [sharedprocess] [info] Scanned user extensions: 1
+[2019-07-04 21:49:38.882] [sharedprocess] [info] Scanned user extensions: 1
+[2019-07-04 21:49:38.954] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-04 21:49:38.958] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-04 21:49:39.000] [sharedprocess] [info] Scanned user extensions: 1
+[2019-07-04 21:49:39.030] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-04 21:49:41.062] [sharedprocess] [info] Scanned user extensions: 1
+[2019-07-04 21:49:42.096] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-07-04 21:54:41.153] [sharedprocess] [info] Scanned user extensions: 1
+[2019-07-04 21:59:41.162] [sharedprocess] [info] Scanned user extensions: 1
+[2019-07-04 22:01:33.175] [sharedprocess] [info] Scanned user extensions: 1
+[2019-07-04 22:01:33.177] [sharedprocess] [info] Scanned user extensions: 1
+[2019-07-04 22:01:33.178] [sharedprocess] [info] Scanned user extensions: 1
+[2019-07-04 22:01:33.183] [sharedprocess] [info] Scanned user extensions: 1
+[2019-07-04 22:01:33.246] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-04 22:01:33.250] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-04 22:01:33.254] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-04 22:01:33.281] [sharedprocess] [info] Scanned user extensions: 1
+[2019-07-04 22:01:33.297] [sharedprocess] [info] Scanned user extensions: 1
+[2019-07-04 22:01:33.311] [sharedprocess] [info] Scanned user extensions: 1
+[2019-07-04 22:01:33.333] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-04 22:01:33.354] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-04 22:01:33.369] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-04 22:01:38.228] [sharedprocess] [info] Installing extension: msjsdiag.vscode-react-native
+[2019-07-04 22:01:38.231] [sharedprocess] [info] Scanned user extensions: 1
+[2019-07-04 22:01:39.697] [sharedprocess] [info] Downloaded extension: msjsdiag.vscode-react-native /tmp/82b430d7-e397-4b4a-95e8-7490375edac0
+[2019-07-04 22:01:40.561] [sharedprocess] [info] Installing extension: dsznajder.es7-react-js-snippets
+[2019-07-04 22:01:40.564] [sharedprocess] [info] Scanned user extensions: 1
+[2019-07-04 22:01:40.945] [sharedprocess] [info] Downloaded extension: dsznajder.es7-react-js-snippets /tmp/7eb56641-4a5a-46e4-88f4-68cba1a8fb3b
+[2019-07-04 22:01:40.983] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.dsznajder.es7-react-js-snippets-2.3.0: dsznajder.es7-react-js-snippets
+[2019-07-04 22:01:40.984] [sharedprocess] [info] Renamed to /root/.vscode/extensions/dsznajder.es7-react-js-snippets-2.3.0
+[2019-07-04 22:01:40.985] [sharedprocess] [info] Installation completed. dsznajder.es7-react-js-snippets
+[2019-07-04 22:01:41.109] [sharedprocess] [info] Extensions installed successfully: dsznajder.es7-react-js-snippets
+[2019-07-04 22:01:41.539] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.msjsdiag.vscode-react-native-0.10.0: msjsdiag.vscode-react-native
+[2019-07-04 22:01:41.540] [sharedprocess] [info] Renamed to /root/.vscode/extensions/msjsdiag.vscode-react-native-0.10.0
+[2019-07-04 22:01:41.542] [sharedprocess] [info] Installation completed. msjsdiag.vscode-react-native
+[2019-07-04 22:01:41.645] [sharedprocess] [info] Scanned user extensions: 3
+[2019-07-04 22:01:41.678] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-04 22:01:41.678] [sharedprocess] [info] Extensions installed successfully: msjsdiag.vscode-react-native
+[2019-07-04 22:01:51.332] [sharedprocess] [info] Installing extension: burkeholland.simple-react-snippets
+[2019-07-04 22:01:51.336] [sharedprocess] [info] Scanned user extensions: 3
+[2019-07-04 22:01:53.682] [sharedprocess] [info] Downloaded extension: burkeholland.simple-react-snippets /tmp/119de627-a667-4ba7-bc89-56e7949c21b9
+[2019-07-04 22:01:53.832] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.burkeholland.simple-react-snippets-1.2.2: burkeholland.simple-react-snippets
+[2019-07-04 22:01:53.832] [sharedprocess] [info] Renamed to /root/.vscode/extensions/burkeholland.simple-react-snippets-1.2.2
+[2019-07-04 22:01:53.833] [sharedprocess] [info] Installation completed. burkeholland.simple-react-snippets
+[2019-07-04 22:01:53.901] [sharedprocess] [info] Extensions installed successfully: burkeholland.simple-react-snippets
+[2019-07-04 22:04:41.176] [sharedprocess] [info] Scanned user extensions: 4
+[2019-07-04 22:09:41.192] [sharedprocess] [info] Scanned user extensions: 4
+[2019-07-04 22:14:41.208] [sharedprocess] [info] Scanned user extensions: 4
+[2019-07-04 22:19:41.224] [sharedprocess] [info] Scanned user extensions: 4
+[2019-07-04 22:24:41.240] [sharedprocess] [info] Scanned user extensions: 4
+[2019-07-04 22:29:41.256] [sharedprocess] [info] Scanned user extensions: 4
+[2019-07-04 22:34:41.271] [sharedprocess] [info] Scanned user extensions: 4
+[2019-07-04 22:39:41.287] [sharedprocess] [info] Scanned user extensions: 4
+[2019-07-04 22:44:41.307] [sharedprocess] [info] Scanned user extensions: 4
+[2019-07-04 22:49:41.498] [sharedprocess] [info] Scanned user extensions: 4
+[2019-07-04 22:54:41.513] [sharedprocess] [info] Scanned user extensions: 4
+[2019-07-04 22:59:41.529] [sharedprocess] [info] Scanned user extensions: 4
+[2019-07-04 23:04:41.543] [sharedprocess] [info] Scanned user extensions: 4
+[2019-07-04 23:09:41.559] [sharedprocess] [info] Scanned user extensions: 4
+[2019-07-04 23:14:41.574] [sharedprocess] [info] Scanned user extensions: 4
+[2019-07-04 23:19:41.591] [sharedprocess] [info] Scanned user extensions: 4
+[2019-07-04 23:24:41.606] [sharedprocess] [info] Scanned user extensions: 4
+[2019-07-04 23:29:41.621] [sharedprocess] [info] Scanned user extensions: 4
