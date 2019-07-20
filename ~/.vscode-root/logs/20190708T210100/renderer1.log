@@ -1,1 +1,18 @@
 [2019-07-08 21:01:13.237] [renderer1] [error] Error: Error: ENOENT: no such file or directory, stat '/home/bogdan/Documents/React/react-complete-guide/.vscode'
+[2019-07-08 23:07:35.791] [renderer1] [error] Unable to move/copy when source path is equal or parent of target path: Error: Unable to move/copy when source path is equal or parent of target path
+    at b.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3345:429)
+    at Generator.next (<anonymous>)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:621
+    at new Promise (<anonymous>)
+    at n (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:398)
+    at b.doValidateMoveCopy (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3345:282)
+    at b.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3343:943)
+    at Generator.next (<anonymous>)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:621
+    at new Promise (<anonymous>)
+    at n (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:398)
+    at b.doMoveCopy (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3343:868)
+    at b.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3343:338)
+    at Generator.next (<anonymous>)
+    at r (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:454)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
