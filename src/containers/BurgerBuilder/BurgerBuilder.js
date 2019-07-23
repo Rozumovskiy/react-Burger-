@@ -87,7 +87,7 @@ class BurgerBuilder extends Component {
             ...this.state.ingrediens
         };
         for (let key in disabledInfo) {
-            disabledInfo[key] = disabledInfo[key] <= 0
+            disabledInfo[key] = disabledInfo[key] <= 0;
         }
         return (
             <Aux>
