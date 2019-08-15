@@ -1,0 +1,13 @@
+[Info  - 8:33:37 PM] ESLint server stopped.
+[Info  - 8:33:38 PM] ESLint server running in node v10.2.0
+[Info  - 8:33:38 PM] ESLint server is running.
+[Info  - 8:33:39 PM] ESLint library loaded from: /home/bogdan/Documents/React/react-complete-guide/node_modules/eslint/lib/api.js
+[Info  - 8:43:21 PM] 
+Failed to load the ESLint library for the document /home/bogdan/Documents/React/react-complete-guide/config/paths.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder react-complete-guide
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder react-complete-guide by executing the 'Disable ESLint' command.
+[Info  - 8:56:48 PM] ESLint server stopped.
